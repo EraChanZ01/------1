@@ -69,3 +69,7 @@ button{
     background-color: rgba(0,0,0,0);
     color: #926239;
 }
+button:hover{
+    background-color: #926239;
+    color:white;
+}
